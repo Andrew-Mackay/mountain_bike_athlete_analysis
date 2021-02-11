@@ -1,24 +1,24 @@
 # Mountain Bike Athlete Analysis
-This project explores the data behind the top level mountain bike athletes in their respective disciplines.
+This project explores the data behind the top-level mountain bike athletes in their respective disciplines.
 
 ## Project Status: 
 I have collected all the data I want to explore and, from this, calculated the average age of event winners for each discipline (DH, XCO and Enduro). 
 
-For now I do not plan to do any further exploration on this data however I do intend to follow up at some point in the future as I have only scratched the surface of what I have collected. If you conduct your own exploration into the data I would be interested to hear about it.
+For now, I do not plan to do any further exploration on this data however I do intend to follow up at some point in the future as I have only scratched the surface of what I have collected. If you conduct your own exploration into the data I would be interested to hear about it.
 
 ## Average Age for Event Winners (years)
 
-DH Mens: 26.53
+DH Men's: 26.53
 
-DH Womens: 26.64
+DH Women's: 26.64
 
-Enduro Mens: 26.83
+Enduro Men's: 26.83
 
-Enduro Womens: 27.72
+Enduro Women's: 27.72
 
-XCO Mens: 29.11
+XCO Men's: 29.11
 
-XCO Womens: 28.0
+XCO Women's: 28.0
 
 ## Data Overview
 The data has been collected from https://www.uci.org/mountain-bike/results. 
@@ -30,11 +30,11 @@ The following restrictions have been applied when conducting this investigation 
 
 The data has been collected from 2009-2020 (where available).
 
-The chosen disciplines to analyse are downhill (DHI), cross-country olympic (XCO) and enduro. 
+The chosen disciplines to analyse are Downhill (DHI), Cross-Country Olympic (XCO) and Enduro. 
 
-Data has only been collected for men and women competeing at the 'Elite' level. 
+Data has only been collected for men and women competing at the 'Elite' level. 
 
-For DHI and XCO disciplines, the data has been taken from world cups and world championship competitions. For enduro the data has been collected for the enduro world series (EWS).
+For DHI and XCO disciplines, the data has been taken from world cups and world championship competitions. For enduro, the data has been collected for the enduro world series (EWS).
 
 Qualifying events have been excluded.
 
