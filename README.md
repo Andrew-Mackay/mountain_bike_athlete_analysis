@@ -1,5 +1,5 @@
 # Mountain Bike Athlete Analysis
-This project explores the data behind the top-level mountain bike athletes in their respective disciplines.
+This project aims to explore the data behind the top-level mountain bike athletes in their respective disciplines.
 
 ## Project Status: 
 I have collected all the data I want to explore and, from this, calculated the average age of event winners for each discipline (DH, XCO and Enduro). 
