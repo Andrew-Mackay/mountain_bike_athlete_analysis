@@ -30,11 +30,11 @@ The following restrictions have been applied when conducting this investigation 
 
 The data has been collected from 2009-2020 (where available).
 
-The chosen disciplines to analyse are Downhill (DHI), Cross-Country Olympic (XCO) and Enduro. 
+The chosen disciplines to analyse are Downhill (DH), Cross-Country Olympic (XCO) and Enduro. 
 
 Data has only been collected for men and women competing at the 'Elite' level. 
 
-For DHI and XCO disciplines, the data has been taken from world cups and world championship competitions. For enduro, the data has been collected for the enduro world series (EWS).
+For DH and XCO disciplines, the data has been taken from world cups and world championship competitions. For enduro, the data has been collected for the enduro world series (EWS).
 
 Qualifying events have been excluded.
 
