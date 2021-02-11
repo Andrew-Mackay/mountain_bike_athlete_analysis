@@ -1,29 +1,36 @@
 # Mountain Bike Athlete Analysis
 This project explores the data behind the top level mountain bike athletes in their respective disciplines.
 
-## Setup
-Install the required python packages:
-```
-pip install -r requirements.txt
-```
+## Project Status: 
+I have collected all the data I want to explore and, from this, calculated the average age of event winners for each discipline (DH, XCO and Enduro). 
 
-Start jupter notebook server:
+For now I do not plan to do any further exploration on this data however I do intend to follow up at some point in the future as I have only scratched the surface of what I have collected. If you conduct your own exploration into the data I would be interested to hear about it.
 
-```
-jupyter notebook
-```
+## Average Age for Event Winners (years)
 
-## The Data
-The data is collected from https://www.uci.org/mountain-bike/results. 
+DH Mens: 26.53
 
-The process for data collection can be found in [data_collection.ipynb](notebooks/data_collection.ipynb). The data has been saved as json and can be found in [data/](data/). All stages of the data collection process have been stored, [competitions_with_races_and_events_and_results.json](data/competitions_with_races_and_events_and_results.json) contains the final data.
+DH Womens: 26.64
+
+Enduro Mens: 26.83
+
+Enduro Womens: 27.72
+
+XCO Mens: 29.11
+
+XCO Womens: 28.0
+
+## Data Overview
+The data has been collected from https://www.uci.org/mountain-bike/results. 
+
+The process for data collection can be found in [data_collection.ipynb](notebooks/data_collection.ipynb). The data has been saved as json and can be found in [data/](data/). All stages of the data collection process have been stored. [competitions_with_races_and_events_and_results.json](data/competitions_with_races_and_events_and_results.json) contains the final data used in [analysis.ipynb](notebooks/analysis.ipynb).
 
 ### Restrictions:
-The following restrictions have been applied when conducting this investigation however it should be fairly straightforward to modify [data_collection.ipynb](notebooks/data_collection.ipynb) to collect any additional data if required.
+The following restrictions have been applied when conducting this investigation however it should be trivial to modify [data_collection.ipynb](notebooks/data_collection.ipynb) to collect any additional data if you require.
 
 The data has been collected from 2009-2020 (where available).
 
-The selected disciplines to analyse are downhill (DHI), cross-country olympic (XCO) and enduro. 
+The chosen disciplines to analyse are downhill (DHI), cross-country olympic (XCO) and enduro. 
 
 Data has only been collected for men and women competeing at the 'Elite' level. 
 
@@ -165,3 +172,19 @@ Qualifying events have been excluded.
 }
 ```
 </details>
+
+
+## Setup
+Install the required python packages:
+```
+pip install -r requirements.txt
+```
+
+Start jupter notebook server:
+
+```
+jupyter notebook
+```
+
+## License
+[MIT](LICENSE)
