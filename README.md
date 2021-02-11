@@ -6,7 +6,7 @@ I have collected all the data I want to explore and, from this, calculated the a
 
 For now, I do not plan to do any further exploration on this data however I do intend to follow up at some point in the future as I have only scratched the surface of what I have collected. If you conduct your own exploration into the data I would be interested to hear about it.
 
-## Average Age for Event Winners (years)
+## Average Age of Event Winners (years)
 
 DH Men's: 26.53
 
